@@ -1,0 +1,19 @@
+body {
+    margin: 5px;
+    padding: 0px;
+}
+.logo {
+    width: 100px;
+    height: 100px;
+}
+.header__nav {
+    background-color:grey;
+    margin: -5px;
+}
+.header__nav__list__inf {
+    text-decoration: none;
+    color:rgb(230, 223, 223);
+}
+.pr__img {
+    height: 200px;
+}
