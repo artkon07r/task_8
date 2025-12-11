@@ -1,5 +1,5 @@
 <header>
-    <a href="#"><img src="img/logo.png" class="logo" alt="Логотип"></a>
+    <img src="img/logo.png" class="logo" alt="Логотип">
     <div>
         <nav class="header__nav">
             <ul class="header__nav__list">
